@@ -1,7 +1,7 @@
 
 def fun2():
 
-    string1 = "amar sonar bangla"
+    string1 = "amar sonar bangla ami tomay valobashi"
     print(string1)
 
 def main():
